@@ -1,0 +1,240 @@
+.header {	
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	right: 50px;
+	}
+.logo {
+	display: block;
+	position: absolute;
+	top: 27px;
+	left: 86px;
+}
+.menu {
+	display: block;
+	position: absolute;
+	top: 80px;
+	left: 0px;
+	right: 0px;	
+}
+.menu li {
+	position: static;
+	display: inline-block;
+	margin-top:  10px;
+}
+.menu a {
+	display: inline;
+	text-align: center;
+	text-decoration: none;
+	font-family: "Myriad Pro";
+	font-size: 20px;
+	color: #093500;
+	padding-left: 55px;	
+}
+.draw {
+	display: block;
+	position: absolute;
+	top: 157px;
+	left: 50px;	
+}
+.slider_img {
+	position: absolute;
+	top: 157px;
+	left: 50px;
+}
+.welcome_slider {
+	position: absolute;
+	height: 25px;
+	width: 321px;
+	top: 190px;
+	padding-left:  319px;
+}
+.text_header {
+	position: absolute;
+	top: 220px;
+	padding-left: 368px;
+	font-family: Tahoma;
+	line-height: 14px;
+	font: bold;
+	color: #80a60f;
+	font-size: 11px;
+	font-weight: 700;
+}
+.text_normal {
+	position: absolute;
+	width: 323px;
+	height: 67px;
+	top: 240px;
+	padding-left: 368px;
+	font-family: Tahoma;
+	line-height: 14px;
+	color: #093500;
+	font-size: 11px;	
+}
+.arrow {
+	position: absolute;
+	top: 321px;
+	left: 370px;
+	right: 342px;
+}
+.about_lab {
+	position: absolute;
+	top: 368px;
+	left: 76px;
+}
+
+.about_header {
+	position: absolute;
+	top: 15px;
+	left: 0px;
+	font-family: Tahoma;
+	line-height: 14px;
+	font: bold;
+	color: #80a60f;
+	font-size: 11px;
+	font-weight: 700;
+	width: 205px;
+	height: 165px;
+}
+.about_text1 {
+	position: absolute;
+	font-family: Tahoma;
+	top: 10px;
+	line-height: 14px;
+	color: #093500;
+	font-size: 11px;
+	padding-top: 20px;
+	text-align: left;
+	left: 0px;
+	width: 205px;
+	height: 165px;
+}
+.about_text2 {
+	position: absolute;
+	font-family: Tahoma;
+	line-height: 14px;
+	color: #093500;
+	font-size: 11px;
+	padding-top: 60px;
+	text-align: left;
+	left: 0px;
+	width: 205px;
+	height: 165px;
+}
+.about_text3 {
+	position: absolute;
+	font-family: Tahoma;
+	line-height: 14px;
+	color: #093500;
+	font-size: 11px;
+	padding-top: 120px;
+	text-align: left;
+	left: 0px;
+	width: 205px;
+	height: 165px;
+}
+.arrow2 {
+	position: absolute;
+	top: 240px;
+}
+.line {
+	position: absolute;
+	top: 20px;
+	left: 230px;
+}
+.laboratory_img {
+	position: absolute;
+	top: 0px;
+	left: 260px;
+}
+.researchers {
+	position: absolute;
+	top: 0px;
+	left: 430px;
+}
+.researchers_header {
+	position: absolute;
+	top: 15px;
+	left: 0px;
+	font-family: Tahoma;
+	line-height: 14px;
+	font: bold;
+	color: #80a60f;
+	font-size: 11px;
+	font-weight: 700;
+	width: 210px;
+	height: 53px;
+}
+.researchers_text {
+	position: absolute;
+	font-family: Tahoma;
+	top: 10px;
+	line-height: 14px;
+	color: #093500;
+	font-size: 11px;
+	padding-top: 20px;
+	left: 0px;
+	width: 210px;
+	height: 53px;
+}
+.line2 {
+	position: absolute;
+	top: 110px;
+	left: 250px;
+}
+.micro_img {
+	position: absolute;
+	padding-top: 130px;
+	left: 260px;
+}
+.services {
+	position: absolute;
+	top: 150px;
+	left: 430px;
+}
+.services_header {
+	position: absolute;
+	top: 15px;
+	left: 0px;
+	font-family: Tahoma;
+	line-height: 14px;
+	font: bold;
+	color: #80a60f;
+	font-size: 11px;
+	font-weight: 700;
+	width: 210px;
+	height: 53px;
+}
+.services_text {
+	position: absolute;
+	font-family: Tahoma;
+	top: 10px;
+	line-height: 14px;
+	color: #093500;
+	font-size: 11px;
+	padding-top: 20px;
+	left: 0px;
+	width: 210px;
+	height: 53px;
+}
+.line3 {
+	position: absolute;
+	top: 265px;
+	left: -20px;
+}
+.copyright {
+	position: absolute;
+	top: 290px;
+	left: 0px;
+	width: 157px;
+	height: 10px;
+	color: #093500;
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.copyright a {
+	text-decoration: none;
+}
